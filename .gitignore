@@ -1,4 +1,5 @@
 *.mat
-*\grad_shafranov\*
+grad_shafranov
+documents
 *WIP*
 *.asv
